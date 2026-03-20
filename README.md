@@ -35,7 +35,7 @@ Add to Slack: [Link]
 
 ## License
 
-MIT License
+BlackRoad Proprietary License
 
 ---
 
