@@ -1,42 +1,20 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/blackboxprogramming/blackroad-slack-bot.svg?style=social&label=Star)](https://github.com/blackboxprogramming/blackroad-slack-bot)
-[![GitHub forks](https://img.shields.io/github/forks/blackboxprogramming/blackroad-slack-bot.svg?style=social&label=Fork)](https://github.com/blackboxprogramming/blackroad-slack-bot/fork)
+# blackroad-slack-bot
+
+Slack bot for BlackRoad OS — alerts, commands, and agent control
+
+## Organization
+
+**BlackRoad-OS** — Core platform — websites, integrations, coordination
+
+## BlackRoad OS
+
+BlackRoad OS is a distributed AI operating system — 20 domains, 668 repositories, 1,000 AI agents, and sovereign infrastructure running on Raspberry Pis and Hailo-8 accelerators. No cloud dependency.
+
+- [blackroad.io](https://blackroad.io) — Main platform
+- [docs.blackroad.io](https://docs.blackroad.io) — Documentation
+- [GitHub](https://github.com/BlackRoad-OS) — This organization
+
+**Language:** JavaScript
 
 
-# BlackRoad Slack Bot 💬
-
-Deploy from Slack with slash commands!
-
-## Features
-
-- `/blackroad-deploy` - Create deployment
-- `/blackroad-status` - Check status
-- `/blackroad-logs` - View logs
-- Interactive modals
-- Real-time notifications
-
-## Installation
-
-Add to Slack: [Link]
-
-## Setup
-
-1. Add bot to workspace
-2. Configure API key in settings
-3. Invite bot to channels
-
-## Usage
-
-```
-/blackroad-deploy my-app
-/blackroad-status
-/blackroad-logs my-app
-```
-
-## License
-
-BlackRoad Proprietary License
-
----
-
-Part of the **BlackRoad Empire** 🚀
+*© 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
